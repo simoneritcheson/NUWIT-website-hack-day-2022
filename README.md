@@ -2,6 +2,7 @@
 
 Ever wanted to build your own website? With NUWIT, you'll learn how—and more!
 ## Table of Contents
+- [ Schedule ](#schedule)
 - [ Getting Started ](#getting-started)
   - [ Wireframing](#wireframing)
   - [ Code Editors](#code-editors)
@@ -22,6 +23,16 @@ Ever wanted to build your own website? With NUWIT, you'll learn how—and more!
 - [Google Fonts](#google-fonts)
 - [FontAwesome](#font-awesome)
 - [Wrap-Up](#wrap-up)
+
+<a name="schedule"></a>
+## Schedule
+11:05 - 11:35am: Intro to Github  
+11:40 - 12:10pm: Wireframing (Figma)  
+12:15 - 12:45pm: Intro to Html / CSS  
+12:50 - 1:20pm: Bootstrap  
+1:25 - 2:25pm: Lunch / Ice Breakers  
+1:25 - 2:25pm: Intro to React (optional)  
+2:30 - 3:00pm: Hosting with git-pages  
 
 <a name="getting-started"></a>
 ## Getting Started
