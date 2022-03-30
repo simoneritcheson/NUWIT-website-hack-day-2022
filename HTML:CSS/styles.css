@@ -1,0 +1,31 @@
+.main_img {
+    width: 30%;
+}
+
+.header {
+    color: red
+}
+
+.description {
+    color: blue;
+}
+
+.container {
+    display: flex;
+}
+
+.text {
+    background-color: aliceblue;
+    padding: 30px;
+    margin: 30px;
+}
+
+@media (max-width: 480px) {
+    .main_img {
+        width: 100%;
+    }
+    
+    .container {
+        flex-direction: column;
+    }
+}
