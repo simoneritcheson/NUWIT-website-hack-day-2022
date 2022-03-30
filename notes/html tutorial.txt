@@ -67,6 +67,3 @@ flex:
 4. add div around text ot group it together 
 5. add class text to div
 - add background color
-
-6. go over developer tools inspect element
-7. look at mobile view --> ew

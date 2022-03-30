@@ -1,0 +1,24 @@
+1. go over file structure -- same as last one + some bootstrap library things
+
+grid system (https://getbootstrap.com/docs/5.0/layout/grid/)
+1. split screen into columns and rows: look agt columns first
+2. in bootstrap, everything surrounded by container div
+3. class name indicative of size of column
+4. give an example:
+
+<div class="container">
+        <div class="row">
+            <div class="col green">
+                
+            </div>
+            <div class="col red">
+                
+            </div>
+            <div class="col blue">
+                
+            </div>
+        </div>
+    </div>
+
+Since the class is col, each element will have an equal length. 
+add info into each column and then show. 
