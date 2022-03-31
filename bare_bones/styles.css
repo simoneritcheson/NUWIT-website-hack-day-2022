@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    flex-direction: row;
+}
+
+.group-text {
+    background-color: tomato;
+    margin: 24px;
+    padding: 24px;
+}
+
+@media (max-width: 480px) {
+body {
+    flex-direction: column;
+}
+    
+}
