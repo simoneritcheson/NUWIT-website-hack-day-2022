@@ -1,6 +1,8 @@
 import React from 'react';
 import styled from 'styled-components';
 import NUWIT from '../images/NUWIT_logo.png';
+import SimpliSafe from '../images/SimpliSafe_logo.png';
+import Bumble from '../images/bumble_logo.png';
 
 const HomeStyle = styled.div`
 .container {
@@ -13,11 +15,23 @@ const HomeStyle = styled.div`
 .row {
     display: flex;
     flex-direction: row;
+    margin: 1rem;
+    padding: 1rem;
 }
 .group-text {
     margin: 3rem;
     padding: 1rem;
     background-color: aliceblue;
+}
+
+.col {
+    padding: 3rem;
+    display: flex;
+    flex-direction: column;
+}
+.right {
+    margin-left: auto;
+    margin-right: 0;
 }
 `
 export default function Home() {
@@ -38,6 +52,15 @@ export default function Home() {
                 </div>
             </div>
 
+            <div class="row">
+                <div class='col'>
+                    <h2> We'd like to thank our sponsors! </h2>
+                </div>
+                <div class='col right'>
+                    <img src={SimpliSafe} alt='SimpliSafe logo' />
+                    <img src={Bumble} alt='Bumble logo' />
+                </div>
+            </div>
             <div>
                 
             </div>
