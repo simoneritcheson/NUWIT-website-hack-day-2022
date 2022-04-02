@@ -55,6 +55,7 @@ export default function Home() {
             <div class="row">
                 <div class='col'>
                     <h2> We'd like to thank our sponsors! </h2>
+                    <p> Thank you! More stuff... </p>
                 </div>
                 <div class='col right'>
                     <img src={SimpliSafe} alt='SimpliSafe logo' />

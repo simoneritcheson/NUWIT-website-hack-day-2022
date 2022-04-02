@@ -1,11 +1,11 @@
 import { v4 as uuidv4 } from 'uuid';
 import SimpliSafe from '../images/SimpliSafe.png';
 import BROAD from '../images/BROAD.png';
-import CapitalOne from '.../images/CapitalOne.png';
-import Cisco from '.../images/Cisco.png';
-import PowerAdvocate from '.../images/PowerAdvocate.png';
-import VMWare from '.../images/vmware.png';
-import WHOOP from '.../images/whoop.png';
+import CapitalOne from '../images/CapitalOne.png';
+import Cisco from '../images/Cisco.png';
+import PowerAdvocate from '../images/PowerAdvocate.png';
+import VMWare from '../images/vmware.png';
+import WHOOP from '../images/whoop.jpg';
 
 const projects = [
   {
